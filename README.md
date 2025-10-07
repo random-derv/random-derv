@@ -1,62 +1,78 @@
-```bash
-┌──(nabarup@github)-[~]
-└─$ whoami
-Nabarup Roy
+# 👋 Hi there, I'm Nabarup Roy
 
-┌──(nabarup@github)-[~]
-└─$ cat about.txt
-Location: Kolkata, West Bengal  
-Role: Computer Science and Engineering student  
-Interests: Full Stack Development, Artificial Intelligence, Automation  
-Focus: Building projects that solve real-world problems and continuously learning new technologies.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;AI+Enthusiast;Always+Learning" alt="Typing SVG" />
+</div>
 
-┌──(nabarup@github)-[~]
-└─$ cat current_work.txt
-- Improving skills in Full Stack Development
-- Learning AI and automation
-- Open to internships, freelancing, and collaboration
+## 👨‍💻 About Me
 
-Portfolio: http://nabaruproy.me/  
-Contact: nabaruproy.dev@gmail.com
+Hi, I’m **Nabarup Roy** from *Kolkata, West Bengal*.  
+I’m a **Computer Science and Engineering student** with a strong passion for **Full Stack Development** and **Artificial Intelligence**.  
+I love learning new technologies and building projects that solve real-world problems.  
 
-┌──(nabarup@github)-[~]
-└─$ ls tech_stack/
-Languages: Java, Python, JavaScript, TypeScript  
-Frontend: React.js, Next.js, HTML5, CSS3  
-Backend: Node.js, Express.js, REST APIs  
-Databases: MySQL, MongoDB, Firebase  
-Tools: Git, GitHub, Docker
+- 🔭 Working on honing my **Full Stack Development** skills  
+- 🌱 Currently learning more about **AI & Automation**  
+- 👯 Looking to collaborate on innovative projects  
+- 💼 Open to **Internships**, **Freelancing**, and **Collaboration** opportunities  
+- 🌐 Portfolio: [nabaruproy.me](http://nabaruproy.me/)  
+- 📫 Reach me at: **nabaruproy.dev@gmail.com**
 
-┌──(nabarup@github)-[~]
-└─$ cat certifications.txt
-Google:
-- Prompt Design in Vertex AI
-- Associate Cloud Engineer App Dev
-- Introduction to Generative AI
+## 🛠️ Tech Stack
 
-Intel:
-- AI for Future Workforce Program
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
-┌──(nabarup@github)-[~]
-└─$ ping -c 3 socials
-LinkedIn: https://www.linkedin.com/in/nabarup-roy/  
-Portfolio: http://nabaruproy.me/  
-Email: nabaruproy.dev@gmail.com
+## 💡 Skills
 
-┌──(nabarup@github)-[~]
-└─$ ./show_stats.sh
-[+] GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NabarupDev&show_icons=true&theme=radical)
+- **Languages**: Java, Python, JavaScript, TypeScript  
+- **Frontend**: React.js, Next.js, HTML5, CSS3  
+- **Backend**: Node.js, Express.js, REST APIs  
+- **Databases**: MySQL, MongoDB, Firebase  
+- **Tools & Platforms**: Git, GitHub, Docker  
 
-[+] Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NabarupDev&theme=radical)
+## 🎓 Education & Certifications
 
-[+] Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NabarupDev&layout=compact&theme=radical)
+- 🎓 B.Tech in Computer Science and Engineering  
+- 📜 **Google Certifications**:  
+  - Prompt Design in Vertex AI  
+  - Associate Cloud Engineer App Dev  
+  - Introduction to Generative AI  
+- 📜 **Intel Certification**:  
+  - AI for Future Workforce Program  
 
-[+] Activity Graph:
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NabarupDev&theme=tokyo-night)
+## 🔗 Connect With Me
 
-┌──(nabarup@github)-[~]
-└─$ echo "Profile views:"
-![Profile views](https://komarev.com/ghpvc/?username=NabarupDev&style=flat-square&color=blueviolet)
+<div align="center">
+  <a href="https://www.linkedin.com/in/nabarup-roy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="http://nabaruproy.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:nabaruproy.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NabarupDev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabarupDev&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabarupDev&layout=compact&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NabarupDev&theme=tokyo-night"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NabarupDev&style=flat-square&color=blueviolet" alt="Profile views" />
+</div> 
