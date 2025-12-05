@@ -76,3 +76,9 @@ I love learning new technologies and building projects that solve real-world pro
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NabarupDev&style=flat-square&color=blueviolet" alt="Profile views" />
 </div> 
+<h2>🚀 Language Experience</h2>
+
+JavaScript <div style="background:#ddd;width:100%;"><div style="background:#61DAFB;width:75%;padding:3px;color:white;">75%</div></div>
+Python <div style="background:#ddd;width:100%;"><div style="background:#3776AB;width:55%;padding:3px;color:white;">55%</div></div>
+Java <div style="background:#ddd;width:100%;"><div style="background:#ED8B00;width:45%;padding:3px;color:white;">45%</div></div>
+TypeScript <div style="background:#ddd;width:100%;"><div style="background:#007ACC;width:25%;padding:3px;color:white;">25%</div></div>
