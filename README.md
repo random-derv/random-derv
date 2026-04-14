@@ -14,7 +14,7 @@ I love learning new technologies and building projects that solve real-world pro
 - 🌱 Currently learning more about **AI & Automation**  
 - 👯 Looking to collaborate on innovative projects  
 - 💼 Open to **Internships**, **Freelancing**, and **Collaboration** opportunities  
-- 🌐 Portfolio: [nabaruproy.me](http://nabaruproy.me/)  
+- 🌐 Portfolio: [nabaruproy.site](http://nabaruproy.site/)  
 - 📫 Reach me at: **nabaruproy.dev@gmail.com**
 
 ## 🛠️ Tech Stack
